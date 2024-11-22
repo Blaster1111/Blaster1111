@@ -37,7 +37,7 @@
 
 🏆 Proud to have been a Finalist in the Rajasthan Police Hackathon 2024 and Gujarat G20 Summit Hackathon 2023.
 
-🏠 Don’t hesitate to drop me a 👋 on Discord – Rudra is my username!
+📧 Feel free to reach me at rudrashukla0711@gmail.com!
 <!--Intro end-->
 
 
