@@ -1,6 +1,5 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -9,34 +8,36 @@
   </ul>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Blaster1111/Blaster1111/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Every line of code brings you closer to the masterpiece you're building.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Flutter, Nodejs, MongoDB, ML**
+🔭 I’m currently working on Node.js, MongoDB, Flutter, React, and TypeScript.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+🌱 I’m diving deeper into Data Structures and Algorithms (DSA) to enhance my problem-solving skills. Check out my progress on LeetCode.
 
-- ☁️ I've keen interest in Development. So,I'm learning **ML**
+☁️ Passionate about creating scalable, real-time applications using modern tech stacks.
 
-- 💬 Ask me about **Flutter, Nodejs, MongoDB, ML**
+💬 Ask me about Flutter development, building scalable backends with Node.js, and architecting MongoDB-based solutions.
 
-- 📫 Feel free to reach me out **rudrashukla0711@gmail.com**
+📫 Feel free to reach me out at rudrashukla0711@gmail.com.
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Rudra](https://discordapp.com/users/406825887690915841) my username!
+🏆 Proud to have been a Finalist in the Rajasthan Police Hackathon 2024 and Gujarat G20 Summit Hackathon 2023.
+
+🏠 Don’t hesitate to drop me a 👋 on Discord – Rudra is my username!
 <!--Intro end-->
 
 
@@ -84,7 +85,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,ts,vscode,flutter,dart,c&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,express,figma,firebase,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,ts,vscode,flutter,dart,c,react,postman,vite,vercel,netlify,py,ts&perline=14" />
   </a>
 </p>
 
