@@ -33,11 +33,9 @@
 
 💬 Ask me about Flutter development, building scalable backends with Node.js, and architecting MongoDB-based solutions.
 
-📫 Feel free to reach me out at rudrashukla0711@gmail.com.
-
 🏆 Proud to have been a Finalist in the Rajasthan Police Hackathon 2024 and Gujarat G20 Summit Hackathon 2023.
 
-📧 Feel free to reach me at rudrashukla0711@gmail.com!
+📫 Feel free to reach me out at rudrashukla0711@gmail.com.
 <!--Intro end-->
 
 
